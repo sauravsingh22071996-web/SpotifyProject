@@ -1,0 +1,9 @@
+{
+	"name": "spotifydatafact",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "65e1198d-b954-43d6-be0f-054204e7f38a",
+		"tenantId": "10c4d691-b010-4c54-be87-4b44e8c26f86"
+	}
+}
